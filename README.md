@@ -79,7 +79,7 @@ Press **ESC** to quit.
 
 ## 👤 Author
 
-**Afrose Jamal**
+**Afrose Fathima J**
 📧 afrosepvt@gmail.com
 🔗 [LinkedIn](http://www.linkedin.com/in/afrose-fathima-jamal-492b57291)
 
